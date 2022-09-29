@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **propaganda detection**
 
-- 🌱 I’m currently learning **hugging face**
+- 🌱 I’m currently learning **graph neural networks**
 
 - 👨‍💻 All of my projects are available at [http://github.com/msimons0](http://github.com/msimons0)
 
